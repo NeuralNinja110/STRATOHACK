@@ -1,0 +1,70 @@
+date,holiday_name,is_national_holiday,holiday_type,year,holiday_impact_score
+2022-01-26,Republic Day,True,National,2022,3.0
+2022-08-15,Independence Day,True,National,2022,3.0
+2022-10-02,Gandhi Jayanti,True,National,2022,3.0
+2022-05-16,Buddha Purnima,True,National,2022,3.0
+2022-10-24,Diwali,True,National,2022,5.0
+2022-08-19,Janmashtami,True,National,2022,3.0
+2022-10-05,Dussehra,True,National,2022,4.0
+2022-04-14,Mahavir Jayanti,True,National,2022,3.0
+2022-03-01,Maha Shivaratri,True,National,2022,3.0
+2022-11-08,Guru Nanak Jayanti,True,National,2022,2.0
+2022-08-09,Muharram,True,National,2022,3.0
+2022-10-09,Milad-un-Nabi,True,National,2022,3.0
+2022-05-03,Id-ul-Fitr,True,National,2022,3.0
+2022-07-10,Bakrid,True,National,2022,3.0
+2022-04-15,Good Friday,True,National,2022,2.0
+2022-12-25,Christmas,True,National,2022,3.0
+2022-03-18 00:00:00,Holi,False,Regional/Festival,2022,4.0
+2022-04-14 00:00:00,Baisakhi,False,Regional/Festival,2022,3.0
+2022-08-19 00:00:00,Janmashtami,False,Regional/Festival,2022,3.0
+2022-09-10 00:00:00,Ganesh Chaturthi,False,Regional/Festival,2022,3.0
+2022-10-05 00:00:00,Dussehra,False,Regional/Festival,2022,4.0
+2022-10-24 00:00:00,Diwali,False,Regional/Festival,2022,5.0
+2022-11-08 00:00:00,Guru Nanak Jayanti,False,Regional/Festival,2022,2.0
+2023-01-26,Republic Day,True,National,2023,3.0
+2023-08-15,Independence Day,True,National,2023,3.0
+2023-10-02,Gandhi Jayanti,True,National,2023,3.0
+2023-05-05,Buddha Purnima,True,National,2023,3.0
+2023-11-12,Diwali,True,National,2023,5.0
+2023-09-07,Janmashtami,True,National,2023,3.0
+2023-10-24,Dussehra,True,National,2023,4.0
+2023-04-04,Mahavir Jayanti,True,National,2023,3.0
+2023-02-18,Maha Shivaratri,True,National,2023,3.0
+2023-11-27,Guru Nanak Jayanti,True,National,2023,2.0
+2023-07-29,Muharram,True,National,2023,3.0
+2023-09-28,Milad-un-Nabi,True,National,2023,3.0
+2023-04-22,Id-ul-Fitr,True,National,2023,3.0
+2023-06-29,Bakrid,True,National,2023,3.0
+2023-04-07,Good Friday,True,National,2023,2.0
+2023-12-25,Christmas,True,National,2023,3.0
+2023-03-08 00:00:00,Holi,False,Regional/Festival,2023,4.0
+2023-04-14 00:00:00,Baisakhi,False,Regional/Festival,2023,3.0
+2023-09-07 00:00:00,Janmashtami,False,Regional/Festival,2023,3.0
+2023-09-19 00:00:00,Ganesh Chaturthi,False,Regional/Festival,2023,3.0
+2023-10-24 00:00:00,Dussehra,False,Regional/Festival,2023,4.0
+2023-11-12 00:00:00,Diwali,False,Regional/Festival,2023,5.0
+2023-11-27 00:00:00,Guru Nanak Jayanti,False,Regional/Festival,2023,2.0
+2024-01-26,Republic Day,True,National,2024,3.0
+2024-08-15,Independence Day,True,National,2024,3.0
+2024-10-02,Gandhi Jayanti,True,National,2024,3.0
+2024-05-23,Buddha Purnima,True,National,2024,3.0
+2024-10-31,Diwali,True,National,2024,5.0
+2024-08-26,Janmashtami,True,National,2024,3.0
+2024-10-12,Dussehra,True,National,2024,4.0
+2024-04-21,Mahavir Jayanti,True,National,2024,3.0
+2024-03-08,Maha Shivaratri,True,National,2024,3.0
+2024-11-15,Guru Nanak Jayanti,True,National,2024,2.0
+2024-07-17,Muharram,True,National,2024,3.0
+2024-09-16,Milad-un-Nabi,True,National,2024,3.0
+2024-04-11,Id-ul-Fitr,True,National,2024,3.0
+2024-06-17,Bakrid,True,National,2024,3.0
+2024-03-29,Good Friday,True,National,2024,2.0
+2024-12-25,Christmas,True,National,2024,3.0
+2024-03-25 00:00:00,Holi,False,Regional/Festival,2024,4.0
+2024-04-14 00:00:00,Baisakhi,False,Regional/Festival,2024,3.0
+2024-08-26 00:00:00,Janmashtami,False,Regional/Festival,2024,3.0
+2024-09-07 00:00:00,Ganesh Chaturthi,False,Regional/Festival,2024,3.0
+2024-10-12 00:00:00,Dussehra,False,Regional/Festival,2024,4.0
+2024-11-01 00:00:00,Diwali,False,Regional/Festival,2024,5.0
+2024-11-15 00:00:00,Guru Nanak Jayanti,False,Regional/Festival,2024,2.0
