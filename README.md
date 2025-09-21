@@ -14,7 +14,8 @@ An advanced AI-powered system for predicting airline ticket prices using multipl
 On test data set:
 
 
-<img width="312" height="167" alt="{22DC9DE8-B6A6-4447-8961-19BE0026707D}" src="https://github.com/user-attachments/assets/d520f4dd-b572-4330-bb05-27dd77dff3d8" />Overall :
+<img width="312" height="167" alt="{22DC9DE8-B6A6-4447-8961-19BE0026707D}" src="https://github.com/user-attachments/assets/d520f4dd-b572-4330-bb05-27dd77dff3d8" />
+Overall :
 
 
 
