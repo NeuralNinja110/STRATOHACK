@@ -10,9 +10,16 @@
 
 An advanced AI-powered system for predicting airline ticket prices using multiple machine learning models, external data sources, and quantum computing techniques. The system analyzes historical flight data, fuel prices, seasonal patterns, and holiday impacts to provide accurate price predictions and optimal booking recommendations.
 
+### Model Performance
+On test data set:
+<img width="312" height="167" alt="{22DC9DE8-B6A6-4447-8961-19BE0026707D}" src="https://github.com/user-attachments/assets/d520f4dd-b572-4330-bb05-27dd77dff3d8" />
+Overall :
+<img width="274" height="149" alt="{A93C0FC2-6CBB-4EFF-8DEE-68AF92FBF5FC}" src="https://github.com/user-attachments/assets/2b29f8aa-ede4-4878-8072-6a8cf070c12e" />
+
+
 ### 🎯 Key Features
 
-- **5 Advanced ML Models**: Linear Regression, Random Forest, XGBoost, LSTM Neural Network, and Quantum Hybrid Model
+- **ML Models**:XGBoost
 - **External Data Integration**: Real-time fuel prices and Indian holiday calendar
 - **Price Alert Bot**: Intelligent booking time optimization
 - **Fuel Price Impact Simulation**: Interactive analysis of fuel price effects
@@ -141,34 +148,13 @@ STRATOHACK/
 └── LICENSE                           # MIT License
 ```
 
-## 🤖 Machine Learning Models
-
-### 1. Linear Regression (Baseline)
-- **Purpose**: Baseline model with Ridge regularization
-- **Features**: All engineered features with L2 regularization
-- **Use Case**: Quick predictions and feature importance analysis
-
-### 2. Random Forest
-- **Purpose**: Ensemble learning with feature importance
-- **Configuration**: 100 estimators, max depth 20
-- **Advantages**: Handles non-linear relationships, robust to outliers
+## 🤖 Machine Learning Model USed
 
 ### 3. XGBoost
 - **Purpose**: Gradient boosting for high accuracy
 - **Features**: Early stopping, cross-validation
 - **Performance**: Typically best performing traditional ML model
-
-### 4. LSTM Neural Network
-- **Purpose**: Time-series pattern recognition
-- **Architecture**: Bidirectional LSTM with attention mechanism
-- **Sequence Length**: 30 days for temporal dependencies
-
-### 5. Quantum Hybrid Model
-- **Purpose**: Quantum-classical hybrid approach
-- **Technology**: Qiskit VQR (Variational Quantum Regressor)
-- **Fallback**: Classical approximation if quantum hardware unavailable
-- **Innovation**: Quantum feature maps for complex pattern recognition
-
+- 
 ## 📈 Features & Data Sources
 
 ### Core Flight Features
